@@ -1,0 +1,54 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 3,
+      "title": "Spiderman",
+      "author": "Marvel"
+    },
+    {
+      "id": 4,
+      "title": "Spiderman",
+      "author": "Marvel"
+    },
+    {
+      "id": 5,
+      "title": "Updated Spiderman",
+      "author": "Updated Marvel"
+    },
+    {
+      "id": 6,
+      "title": "Spiderman",
+      "author": "Marvel"
+    },
+    {
+      "id": 7,
+      "title": "Updated Spiderman",
+      "author": "Updated Marvel"
+    },
+    {
+      "id": 8,
+      "title": "Spiderman",
+      "author": "Marvel"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
